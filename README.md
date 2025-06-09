@@ -1,5 +1,5 @@
 
-## Hi there 👋, my name is Rajesh Khetavath
+## Hi there LAAL SALAM👋, my name is Rajesh Khetavath
 
 [![youtube channel link](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rajeshk1983)
 [![discord server link](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YgqnpZDg)
@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About me
 
-I'm from the Hyderabad IND, currently in the India Standard Time 🌎. I'm a huge fan of Node.js, TypeScript, open-source, and writing testable software 💻. When I'm not crushing bugs or building dreams, I can be found playing CS2 🎮  , playing Volleyball 🏐, lifting weights 🏋️.
+I'm from Hyderabad IND, currently in the India Standard Time 🌎. I'm a huge fan of Node.js, TypeScript, open-source, and writing testable software 💻. When I'm not crushing bugs or building dreams, I can be found playing CS2 🎮  , playing Volleyball 🏐, lifting weights 🏋️,if ur locky u can find me in your moms closet ( sike )   .
 
 ## 📫 How to reach me
 
