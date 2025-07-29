@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About me
 
-I'm from Hyderabad IND, currently in the India Standard Time 🌎. I'm a huge fan of Node.js, TypeScript, open-source, and writing testable software 💻. When I'm not crushing bugs or building dreams, I can be found playing CS2 🎮  , playing Volleyball 🏐, lifting weights 🏋️.
+I'm from Hyderabad, currently in the India Standard Time 🌎. I'm a huge fan of Node.js, TypeScript, open-source, and writing testable software 💻. When I'm not crushing bugs or building dreams, I can be found playing Valorant 🎮  , playing Volleyball 🏐, lifting weights 🏋️.
 
 ## 📫 How to reach me
 
